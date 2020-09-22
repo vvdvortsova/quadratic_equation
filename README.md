@@ -1,5 +1,5 @@
 # Solver of quadratic equation
-This program is the first task of ISP RAS course.
+This program is the first task of ISP RAS course C/C++ by I. R. Dedinsky
 ## Structure
 - Main project 
     - src/
