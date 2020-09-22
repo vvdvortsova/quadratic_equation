@@ -1,0 +1,9 @@
+.idea/
+test_source/
+cmake-build-debug/
+CMakeFiles/
+quadratic_equation.cbp
+quadratic_equation
+Makefile
+CMakeCache.txt
+cmake_install.cmake
